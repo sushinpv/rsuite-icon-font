@@ -1,3 +1,9 @@
+# Whats new here ?
+Rsuite library is very good interns of generating font file with only the required svg's, but one problem is, to do this, you need to remove all the unwanted svg from the course directory, This is bad, may be tomorrow, you might need to add one more svg, 
+
+This repo is an extended version of rsutie, which solve this problem. 
+
+We have a file called `script/icon-types.ts`, Here you can mention all the required svg names, Then the run `npm run build` to generate font with only the mentioned svg's
 # RSUITE Icon Svg
 RSUITE all icons source files.
 
