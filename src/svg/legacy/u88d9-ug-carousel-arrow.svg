@@ -1,4 +1,19 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z" fill="#F3F5F8"/>
-<path d="M9.7779 4.2094C9.48178 3.9302 9.00342 3.9302 8.70729 4.2094L5.2221 7.4953C4.92597 7.7745 4.92597 8.2255 5.2221 8.5047L8.70729 11.7906C9.00342 12.0698 9.48178 12.0698 9.7779 11.7906C10.074 11.5114 10.074 11.0604 9.7779 10.7812L6.83181 7.99642L9.7779 5.21879C10.074 4.9396 10.0664 4.48143 9.7779 4.2094Z" fill="black"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="91.44mm" height="91.44mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 9144 9144"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:black}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M8895.98 4571.99c0,2388.03 -1935.95,4323.98 -4323.97,4323.98 -2388.03,0 -4323.98,-1935.95 -4323.98,-4323.98 0,-2388.02 1935.95,-4323.97 4323.98,-4323.97 2388.02,0 4323.97,1935.95 4323.97,4323.97zm-3941.77 -2048.71c160.16,-150.96 418.77,-150.96 578.72,0 155.87,146.88 159.95,394.67 0,545.43l-1592.35 1501.45 1592.35 1505.12c159.95,150.76 159.95,394.67 0,545.43 -159.95,150.96 -418.56,150.96 -578.72,0l-1883.66 -1776c-159.95,-150.76 -159.95,-394.67 0,-545.43l1883.66 -1776z"/>
+ </g>
 </svg>

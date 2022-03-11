@@ -56,6 +56,7 @@ const icons = [
   'ug-youtube',
   'ug-calling',
   'ug-carousel-arrow',
+  'ug-carousel-arrow-disabled',
   'ug-cart-icon',
   'ug-clock',
   'ug-collapse',
@@ -100,7 +101,16 @@ const icons = [
   'ug-share',
   'ug-support',
   'ug-time-dot',
-  'ug-twitter'
+  'ug-twitter',
+  'ug-coins',
+  'ug-user-profile',
+  'ug-referral',
+  'ug-wallet',
+  'ug-courses',
+  'ug-dashboard',
+  'ug-doubts',
+  'ug-more',
+  'ug-study-plan'
 ];
 
 export default icons;
