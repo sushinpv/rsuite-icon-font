@@ -42,6 +42,8 @@ const icons = [
   'shopping-cart',
   'step-forward',
   'sort',
+  'plus',
+  'minus',
   'sort-up',
   'sort-desc',
   'whatsapp',
@@ -79,6 +81,7 @@ const icons = [
   'ug-info-icon',
   'ug-instagram',
   'ug-language-change',
+  'ug-logout',
   'ug-linkedin',
   'ug-mark-flag',
   'ug-mback',
@@ -110,7 +113,7 @@ const icons = [
   'ug-dashboard',
   'ug-doubts',
   'ug-more',
-  'ug-study-plan'
+  'ug-study-plan',
 ];
 
 export default icons;
