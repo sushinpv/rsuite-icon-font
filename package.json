@@ -4,7 +4,7 @@
   "description": "All rsuite icon resource file and icon fonts",
   "scripts": {
     "build": "npm run build:pre-build && npm run build:fonts && npm run build:components",
-    "build:pre-build": "ts-node script/index.ts",
+    "build:pre-build": "rm -rf src/svg/prebuild && ts-node script/index.ts",
     "build:fonts": "rm -rf dist && gulp",
     "build:components": "rm -rf components && cp -R dist/components ./components && npm run build:compolile-components",
     "build:compolile-components": "rm -rf lib && babel dist/components --extensions .tsx --out-dir lib",
