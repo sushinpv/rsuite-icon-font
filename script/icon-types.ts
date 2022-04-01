@@ -114,6 +114,7 @@ const icons = [
   'ug-doubts',
   'ug-more',
   'ug-study-plan',
+  'ug-current-affairs',
 ];
 
 export default icons;
