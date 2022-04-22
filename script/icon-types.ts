@@ -16,6 +16,7 @@ const icons = [
   'check-circle',
   'circle-o',
   'clock-o',
+  'dot-circle-o',
   'close',
   'close-circle',
   'down',
