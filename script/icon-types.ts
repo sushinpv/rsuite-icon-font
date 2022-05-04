@@ -116,6 +116,9 @@ const icons = [
   'ug-more',
   'ug-study-plan',
   'ug-current-affairs',
+  'ug-sort',
+  'ug-search',
+  'ug-pencil',
 ];
 
 export default icons;
