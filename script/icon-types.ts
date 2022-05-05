@@ -119,6 +119,7 @@ const icons = [
   'ug-sort',
   'ug-search',
   'ug-pencil',
+  'ug-blog',
 ];
 
 export default icons;
